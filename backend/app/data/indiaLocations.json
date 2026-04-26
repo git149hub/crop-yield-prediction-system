@@ -1,0 +1,61 @@
+{
+  "Punjab": ["Ludhiana","Amritsar","Patiala","Jalandhar","Bathinda","Mohali","Moga","Hoshiarpur"],
+
+  "Haryana": ["Karnal","Hisar","Panipat","Rohtak","Ambala","Gurgaon","Faridabad","Kurukshetra"],
+
+  "Rajasthan": ["Jaipur","Jodhpur","Udaipur","Kota","Ajmer","Bikaner","Alwar","Sikar"],
+
+  "Gujarat": ["Ahmedabad","Surat","Rajkot","Vadodara","Bhavnagar","Jamnagar","Junagadh","Anand"],
+
+  "Maharashtra": ["Mumbai","Pune","Nagpur","Nashik","Aurangabad","Kolhapur","Solapur","Amravati"],
+
+  "Madhya Pradesh": ["Indore","Bhopal","Jabalpur","Gwalior","Ujjain","Sagar","Rewa","Satna"],
+
+  "Uttar Pradesh": ["Lucknow","Kanpur","Agra","Varanasi","Meerut","Prayagraj","Bareilly","Gorakhpur"],
+
+  "Bihar": ["Patna","Gaya","Muzaffarpur","Bhagalpur","Darbhanga","Purnia","Ara","Begusarai"],
+
+  "Jharkhand": ["Ranchi","Jamshedpur","Dhanbad","Bokaro","Hazaribagh","Deoghar"],
+
+  "West Bengal": ["Kolkata","Howrah","Darjeeling","Siliguri","Durgapur","Malda","Asansol","Kharagpur"],
+
+  "Odisha": ["Bhubaneswar","Cuttack","Puri","Sambalpur","Rourkela","Balasore"],
+
+  "Chhattisgarh": ["Raipur","Bilaspur","Durg","Korba","Jagdalpur"],
+
+  "Assam": ["Guwahati","Dibrugarh","Silchar","Jorhat","Tezpur"],
+
+  "Telangana": ["Hyderabad","Warangal","Karimnagar","Nizamabad","Khammam","Adilabad"],
+
+  "Andhra Pradesh": ["Visakhapatnam","Vijayawada","Guntur","Anantapur","Kurnool","Nellore","Tirupati"],
+
+  "Karnataka": ["Bangalore","Mysore","Hubli","Belgaum","Mangalore","Shimoga","Davanagere"],
+
+  "Tamil Nadu": ["Chennai","Coimbatore","Madurai","Salem","Trichy","Erode","Tirunelveli","Vellore"],
+
+  "Kerala": ["Kochi","Trivandrum","Kozhikode","Thrissur","Kannur","Kottayam","Palakkad"],
+
+  "Goa": ["Panaji","Margao","Vasco"],
+
+  "Uttarakhand": ["Dehradun","Haridwar","Nainital","Haldwani","Roorkee"],
+
+  "Himachal Pradesh": ["Shimla","Mandi","Kullu","Solan","Dharamshala"],
+
+  "Jammu And Kashmir": ["Srinagar","Jammu","Anantnag","Baramulla"],
+
+  "Delhi": ["New Delhi","North Delhi","South Delhi","West Delhi"],
+
+  "Tripura": ["Agartala"],
+
+  "Manipur": ["Imphal"],
+
+  "Meghalaya": ["Shillong"],
+
+  "Nagaland": ["Kohima","Dimapur"],
+
+  "Mizoram": ["Aizawl"],
+
+  "Arunachal Pradesh": ["Itanagar"],
+
+  "Sikkim": ["Gangtok"]
+}
