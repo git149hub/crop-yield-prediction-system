@@ -9,11 +9,10 @@ frontend/node_modules/
 frontend/dist/
 frontend/.vite/
 
-# Python cache anywhere
-**/__pycache__/
+# General
+__pycache__/
 *.pyc
-
-# OS / Editor
+.env
 .DS_Store
 Thumbs.db
 .vscode/
