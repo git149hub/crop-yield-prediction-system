@@ -112,7 +112,7 @@ export interface HistoryEntry {
   date: string;
 }
 
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = "https://crop-yield-prediction-system-backend.onrender.com";
 const HISTORY_KEY = "crop_yield_history";
 
 /* -------------------- */
